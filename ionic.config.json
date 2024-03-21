@@ -1,0 +1,8 @@
+{
+  "name": "InsomniCare",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "550bde65"
+}
